@@ -1,6 +1,6 @@
 YouTube Clone
 
-A web-based project replicating the user interface of YouTube. This clone includes basic features to showcase the look and feel of the platform, emphasizing front-end design and responsive layouts.
+A web-based project replicating the user interface of YouTube. This clone includes basic features to showcase the look and feel of the platform, emphasizing front-end design.
 
 Hosted Link
 
